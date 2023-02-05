@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vbagdi
 - 👀 I’m interested in Data Science and Software Development 
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on open-source projects and data-driven ideas.
 - 📫 How to reach me - vbagdi2025@gmail.com
 
